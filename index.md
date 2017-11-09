@@ -1,91 +1,154 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Varun Shrivastav's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+<!--<div id="photo"><img src="Varun3.JPG" /></div>-->
+
+# Varun Shrivastav
+Android and Web applications developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<i class="fa fa-github"></i><a href="https://github.com/vssh">https://github.com/vssh</a>
+<!--<br>
+<i class="fa fa-envelope"></i><a href="mailto:"></a>
+<br>
+<i class="fa fa-phone"></i><a href="tel:"></a>
+<br>
+<i class="fa fa-map-marker"></i><span></span>
+<br>
+<i class="fa fa-birthday-cake"></i><span></span>
+<br>
+<i class="fa fa-flag"></i><span></span>-->
 </div>
 
 
-## Currently
+## Projects
+`2015-`
+__upTempo__
+_Fitness Tracking Android application_
 
-Standing on the shoulders of giants
+[https://play.google.com/store/apps/details?id=com.vssh.uptempo](https://play.google.com/store/apps/details?id=com.vssh.uptempo)
 
-### Specialized in
+-   Conception, design, development and testing of application from idea to market
+-   High degree of algorithmic complexity
+-   UI/UX design including logo and many assets
+-   Seamless interoperation with various peripherals
+    -   _Android Wear_ compatible application for both versions <1.5 and >2.0 in store
+    -   _Pebble Watch_ application, open source (written in C) available at [https://github.com/vssh/pebble-upTempo](https://github.com/vssh/pebble-upTempo)
+    -   _Bluetooth Low Energy devices_ support using Android Bluetooth stack (on phone and watch)
+-   Track crashes on user devices using Firebase
+-   Maintain responsiveness despite all data storage and manipulation being local
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2017-`
+__unNative__
+_Webapps Browser Android application_
+
+-Unreleased-
+
+-   Webview-based browser-like application
+-   Source to be released soon, built completely with open source components
+-   Code being partially switched over to Kotlin
 
 
-### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Employment
+
+`2013-`
+__Libelle AG__
+_Software Developer_
+
+-   Designed and developed multiple frontend applications
+-   Designed and developed multiple modular and extensible web application components
+-   Designed and developed webview-based Android application
+-   Designed and developed interface layer for web application framework to communicate with native webview-based apps (android, iOS and Windows) and regular browsers
+
+`2012-13`
+__Libelle AG__
+_Internship_
+
+-   Developed and tested software for database handling coded in C/C++
+-   Developed Unit-tests for Windows and Unix-based Systems
+
+
+`2008-10`
+__IBM India__
+_Software Developer_
+
+-   Designed and developed automatically generated reports using Actuate
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2010-12`
+__Universitaet Stuttgart__, Stuttgart/Germany
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+_Master of Science_, Communication Engineering and Media Technology
 
 
+`2004-08`
+__University of Pune__, Pune/India
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+_Bachelor of Engineering_, Electronics and Telecommunication
 
 
+`2004-12`
+__Academic Projects and Theses__
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+-   Secure Location Sharing for Consecutive Updates
+-   Android Platform Application Development
+-   Software Engineering Team Project (algorithmic obstacle avoidance)
+-   Automated Testing of Industrial Circuits
 
 
-## Occupation
+## Competencies
 
-`1600`
-__Royal Mint__, London
+### Technical
+#### Android
 
-- Warden
-- Minted coins
+-   Android SDK
+-   Google Play Services API
+-   Google Maps API
+-   FIrebase
+-   RxJava
+-   Android Wear
+-   Kotlin
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+#### Web
 
+-   HTML5/CSS3
+-   Javascript
+-   Less/Sass
+-   JQuery/JQuery Mobile
+-   Bootstrap
 
+#### Programming
 
-<!-- ### Footer
+-   C/C++
+-   Java
+-   SQL
 
-Last updated: May 2013 -->
+#### Tools
 
+-   Android Studio
+-   IntelliJ IDEA
+-   Git
+-   SVN
+-   nodeJS
+-   Redmine
+-   Jenkins
+-   Xcode
 
+### Languages
+
+-   English (_native_)
+-   German (_fluent_)
+-   Hindi (_native_)
+-   Marathi (_native_)
+
+### Hobbies
+
+-   Small software/hardware projects around Single Board Computers like Raspberry Pi
+-   Sports like Tennis, Badminton and Cycling
+-   Nature hiking and travel
+-   Reading
