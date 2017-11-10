@@ -33,12 +33,12 @@ _Fitness Tracking Android application_
 -   Conception, design, development and testing of application from idea to market
 -   High degree of algorithmic complexity
 -   UI/UX design including logo and many assets
+-   Track crashes on user devices using Firebase
+-   Maintain responsiveness despite all data storage and manipulation being local
 -   Seamless interoperation with various peripherals
     -   _Android Wear_ compatible application for both versions <1.5 and >2.0 in store
     -   _Pebble Watch_ application, open source (written in C) available at [https://github.com/vssh/pebble-upTempo](https://github.com/vssh/pebble-upTempo)
     -   _Bluetooth Low Energy devices_ support using Android Bluetooth stack (on phone and watch)
--   Track crashes on user devices using Firebase
--   Maintain responsiveness despite all data storage and manipulation being local
 
 `2017-`
 __unNative__
@@ -109,7 +109,7 @@ __Academic Projects and Theses__
 -   Android SDK
 -   Google Play Services API
 -   Google Maps API
--   FIrebase
+-   Firebase
 -   RxJava
 -   Android Wear
 -   Kotlin
@@ -150,5 +150,5 @@ __Academic Projects and Theses__
 
 -   Small software/hardware projects around Single Board Computers like Raspberry Pi
 -   Sports like Tennis, Badminton and Cycling
--   Nature hiking and travel
+-   Nature hiking and Travel
 -   Reading
