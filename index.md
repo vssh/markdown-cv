@@ -108,16 +108,13 @@ __Academic Projects and Theses__
 
 -   Android SDK
 -   Google Play Services API
--   Google Maps API
 -   Firebase
 -   RxJava
 -   Android Wear
--   Kotlin
 
 #### Web
 
 -   HTML5/CSS3
--   Javascript
 -   Less/Sass
 -   JQuery/JQuery Mobile
 -   Bootstrap
@@ -126,7 +123,9 @@ __Academic Projects and Theses__
 
 -   C/C++
 -   Java
+-   Javascript
 -   SQL
+-   Kotlin
 
 #### Tools
 
