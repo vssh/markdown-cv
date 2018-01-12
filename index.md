@@ -31,8 +31,8 @@ _Fitness Tracking Android application_
 [https://play.google.com/store/apps/details?id=com.vssh.uptempo](https://play.google.com/store/apps/details?id=com.vssh.uptempo)
 
 -   Conception, design, development and testing of application from idea to market
--   High degree of algorithmic complexity
 -   UI/UX design including logo and many assets
+-   High degree of algorithmic complexity
 -   Track crashes on user devices using Firebase
 -   Maintain responsiveness despite all data storage and manipulation being local
 -   Seamless interoperation with various peripherals
@@ -44,11 +44,13 @@ _Fitness Tracking Android application_
 __unNative__
 _Webapps Browser Android application_
 
--Unreleased-
+[https://play.google.com/store/apps/details?id=com.vssh.unnative](https://play.google.com/store/apps/details?id=com.vssh.unnative)
 
--   Webview-based browser-like application
--   Source to be released soon, built completely with open source components
--   Code being partially switched over to Kotlin
+-   Conception, design, development and testing of application from idea to market
+-   UI/UX design including logo and many assets
+-   Advanced memory management to handle multiple WebView instances
+-   Unique features like Cookie-Sandboxing for WebView
+-   Backup and load configurations to local or remote files
 
 
 
