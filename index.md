@@ -147,6 +147,12 @@ __Academic Projects and Theses__
 -   Hindi (_native_)
 -   Marathi (_native_)
 
+### Skills
+
+-   Communication in  multicultural environment
+-   Decision-making capability
+-   Ability to set and achieve goals
+
 ### Hobbies
 
 -   Small software/hardware projects around Single Board Computers like Raspberry Pi
