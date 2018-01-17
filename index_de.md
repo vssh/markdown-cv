@@ -3,7 +3,7 @@ layout: cv
 title: Varun Shrivastav's CV
 ---
 
-<div id="photo"><img src="Varun3.JPG" /></div>
+<!--<div id="photo"><img src="Varun3.JPG" /></div>-->
 
 # Varun Shrivastav
 Android- und Web-App Entwickler
