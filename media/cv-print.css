@@ -53,17 +53,18 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 11pt;
+	font-size: 10pt;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
+    text-align: justify;
 	/*margin-top: 1em;
 	margin-left: 1em;*/
 }
 
 p {
 	position: relative;
-	left: 28%;
+	left: 22%;
 	margin-bottom: 0.2em;
 	margin-right: 0;
 	width: 70%;
@@ -79,14 +80,14 @@ code {
 
 p code {
 	position: absolute;
-	left: -11%;
+	left: -12%;
 }
 
 
 ul {
 	position: relative;
-	left: 28%;
-	width: 65%;
+	left: 22%;
+	width: 70%;
 	margin-bottom: 1em;
 	/*margin-top: -0.5em;*/
 }
@@ -98,10 +99,14 @@ li:before {
 	left: -0.25em;
 }
 
+li li:before {
+    content: "\25E6";
+}
+
 li {
 	/*second line indent*/
-	padding-left: 1.25em;
-	text-indent: -1.25em;
+	padding-left: 1em;
+	text-indent: -0.5em;
 	/*color: #777;*/
 }
 
@@ -128,6 +133,7 @@ h1 {
 
 h1+p {
 	/*subtitle*/
+    left: 28%;
 	font-style: italic;
 	font-size: 110%;
 }
@@ -135,11 +141,11 @@ h1+p {
 h2 {
 	font-size: 1.2em;
 	color: #a00;
-	margin-top: 4em;
+	/*margin-top: 4em;*/
 	position: relative;
 	top: 1.2em;
 	text-align: right;
-	width: 18%;
+	width: 14%;
 }
 
 h2+p {
@@ -184,9 +190,9 @@ a:hover {
 	color:#39f
 }
 
-#education {
+/*#education {
 	page-break-before: always;
-}
+}*/
 
 #webaddress {
 	margin-top: 1em;
@@ -208,8 +214,9 @@ a:hover {
 }
 
 #webaddress i {
-	margin-left: 2rem;
-	margin-right: 1em;
+	//margin-left: 2rem;
+	width: 1em;
+	margin-right: 2em;
 	color: #222;
 }
 
