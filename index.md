@@ -23,45 +23,23 @@ Android and Web applications developer
 </div>
 
 
-## Projects
-`2015-`
-__upTempo__
-_Fitness Tracking Android application_
-
-[https://play.google.com/store/apps/details?id=com.vssh.uptempo](https://play.google.com/store/apps/details?id=com.vssh.uptempo)
-
--   Conception, design, development and testing of application from idea to market
--   High degree of algorithmic complexity
--   UI/UX design including logo and many assets
--   Track crashes on user devices using Firebase
--   Maintain responsiveness despite all data storage and manipulation being local
--   Seamless interoperation with various peripherals
-    -   _Android Wear_ compatible application for both versions <1.5 and >2.0 in store
-    -   _Pebble Watch_ application, open source (written in C) available at [https://github.com/vssh/pebble-upTempo](https://github.com/vssh/pebble-upTempo)
-    -   _Bluetooth Low Energy devices_ support using Android Bluetooth stack (on phone and watch)
-
-`2017-`
-__unNative__
-_Webapps Browser Android application_
-
-[https://play.google.com/store/apps/details?id=com.vssh.unnative](https://play.google.com/store/apps/details?id=com.vssh.unnative)
-
--   Conception, design, development and testing of application from idea to market
--   UI/UX design including logo and many assets
--   Advanced memory management to handle multiple WebView instances
--   Unique features like Cookie-Sandboxing for WebView
-
-
-
 ## Employment
 
-`2013-`
+`2018-`
+__Bitfactory__
+_Lead Software Developer_
+
+-   Development on multiple projects on diverse technologies like Android, Windows WPF application, Web applications using ReactJS
+-   Worked with and provided guidance to multicultural teams in different time zones
+-   Worked with managing projects, getting work estimates and conducting technical and team meetings
+
+
+`2013-2018`
 __Libelle AG__
 _Software Developer_
 
 -   Designed and developed multiple frontend applications
 -   Designed and developed multiple modular and extensible web application components
--   Designed and developed webview-based Android application
 -   Designed and developed interface layer for web application framework to communicate with native webview-based apps (android, iOS and Windows) and regular browsers
 
 `2012-13`
@@ -77,6 +55,24 @@ __IBM India__
 _Software Developer_
 
 -   Designed and developed automatically generated reports using Actuate
+
+
+## Personal projects
+`2015-2018`
+__upTempo__
+_Fitness Tracking Android application_
+
+[https://play.google.com/store/apps/details?id=com.vssh.uptempo](https://play.google.com/store/apps/details?id=com.vssh.uptempo)
+
+A privacy-first Android app for fitness tracking with a rich feature set including automatic movement tracking, periphral support (BLE devices, Android Wear watches and Pebble watches) and error tracking
+
+`2017-`
+__unNative__
+_Webapps Browser Android application_
+
+[https://play.google.com/store/apps/details?id=com.vssh.unnative](https://play.google.com/store/apps/details?id=com.vssh.unnative)
+
+An Android app that lets you use use web pages similar to native apps while providing privacy features like web-tracker blocking, ad blocking, cookie sandboxing and system integrations.
 
 
 ## Education
@@ -112,6 +108,7 @@ __Academic Projects and Theses__
 -   Firebase
 -   RxJava
 -   Android Wear
+-   Architecture Components
 
 #### Web
 
@@ -119,6 +116,8 @@ __Academic Projects and Theses__
 -   Less/Sass
 -   JQuery/JQuery Mobile
 -   Bootstrap
+-   Material UI
+-   Next.js
 
 #### Programming
 
@@ -127,6 +126,8 @@ __Academic Projects and Theses__
 -   Javascript
 -   SQL
 -   Kotlin
+-   ReactJS
+-   C#
 
 #### Tools
 
@@ -135,9 +136,11 @@ __Academic Projects and Theses__
 -   Git
 -   SVN
 -   nodeJS
--   Redmine
 -   Jenkins
 -   Xcode
+-   Redmine
+-   Jira
+-   Bitbucket
 
 ### Languages
 
